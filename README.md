@@ -1,9 +1,5 @@
 #Project Title:EcoMart E-commerce Platform
 
-## Project info
-
-**URL**: https://lovable.dev/projects/1e7e9592-bcb0-4393-9e9e-698ea5a25865
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
